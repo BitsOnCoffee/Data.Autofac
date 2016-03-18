@@ -1,2 +1,1 @@
-# Data.Autofac
-Autofac initialization for BitsOnCoffee.Data
+# BitsOnCoffee Data AutofacC# Class Library for Autofac initialization of [BitsOnCoffee.Data](https://github.com/BitsOnCoffee/Data)##DocumentationFor documentation and examples see [Wiki](https://github.com/BitsOnCoffee/Data.Autofac/wiki)###InformationI'm adding a new functionality as I go along with my needs. So any pull requests are welcome!

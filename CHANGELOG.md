@@ -1,0 +1,1 @@
+# BitsOnCoffee Data AutofacC# Class Library for Autofac initialization of [BitsOnCoffee.Data](https://github.com/BitsOnCoffee/Data)##Changelog###1.0.0.0* Initial commit
